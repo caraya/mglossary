@@ -33,16 +33,6 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "°F",
-			"Description": "Acceptable abbreviation for degree(s) Fahrenheit. (To create the degree symbol, see &ldquo;Special characters.&rdquo;) Example: The average summer temperature is 75°F in the valley. No space between the numeral and °F, no period after the abbreviation.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "a lot",
-			"Description": "Two words. Not alot.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "ActiveX",
 			"Description": "Note capitalization of this Microsoft trademark. Term should be used as an adjective only. Example: ActiveX control, ActiveX technologies.",
 			"@type": "glossary-entry"
@@ -66,53 +56,13 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "African American (n., adj.)",
-			"Description": "Two words, no hyphen. This term may be used interchangeably with black. But note: The term black applies to any black person of African descent; African American applies only when you know for certain that the person is American and not Canadian, Haitian, or another nationality. [Updated to clarify term.]",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "afterparty (n.)",
-			"Description": "One word. A party that takes place after a big event or larger party. Example: She wore one designer&rsquo;s creation on the red carpet, another&rsquo;s to the afterparty.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "aka",
 			"Description": "Abbreviation for also known as. Lowercase, no periods, no spaces.",
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "all right",
-			"Description": "Two words. Not alright. Hyphenate when it precedes the word it modifies. Examples: Do you feel all right? It was an all-right day—not great, but not bad, either.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "all-star (n., adj.)",
-			"Description": "Note hyphen. Capitalize when referring to sports events and teams with all-star as part of the official name: This is his third time being picked as an MLB All-Star. The All-Star Game will air next week. Lowercase when using it generically: The movie features an all-star cast.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "alright",
-			"Description": "Don&rsquo;t use. See &ldquo;all right.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "alt text",
 			"Description": "Short for alternative text, which is text entered into the HTML alt attribute associated with an image on a webpage. See &ldquo;Alt text and image captions.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "American Indian (n., adj.)",
-			"Description": "Two words, no hyphen. Can be used interchangeably with Native American where appropriate, but follow the subject&rsquo;s preference and use a more specific name (such as Lakota Sioux or Navajo) where possible.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "amid, amidst",
-			"Description": "The preferred U.S. word is amid. Amidst is chiefly British and is considered a variant of amid in the United States.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "among, amongst",
-			"Description": "The preferred U.S. word is among. Amongst is chiefly British and is considered a variant of among in the United States.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -136,16 +86,6 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "Asian American (n., adj.)",
-			"Description": "Two words, no hyphen.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Asian Pacific American (n., adj.)",
-			"Description": "Three words, no hyphen. Refers to Americans of Asian and Pacific Islander descent.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "audio conference",
 			"@type": "glossary-entry"
 		},
@@ -155,23 +95,8 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "Auto-Tune",
-			"Description": "Note capitalization of this Antares Audio Technologies trademark. Use the term as an adjective or as a proper noun, and do not use it as a verb.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "autumn",
-			"Description": "Lowercase the season name. See also &ldquo;seasons.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "avatar",
 			"Description": "Lowercase when used generically.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "B.C.",
-			"Description": "Note capitals and periods. No space after the first period. Place B.C. after the year. Example: The ruins of the city date back to around 900 B.C. For more information, see &ldquo;Years.&rdquo;",
 			"@type": "glossary-entry"
 		},
 		{
@@ -180,21 +105,7 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "BA",
-			"Description": "Abbreviation for Bachelor of Arts. No periods. [Updated to apply title case to the full name of the degree.]",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "baby boomer (n.), baby-boomer (adj.)",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "back end (n.), back-end (adj.)",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "back-to-school (adj.), back to school (adv.)",
-			"Description": "Note hyphens when it precedes the word it modifies. Three words in all other cases. Examples: Back-to-school shopping can be a painful experience. The kids are headed back to school in the fall.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -205,11 +116,6 @@
 		{
 			"Word": "backup (n., adj.), back up (v.)",
 			"Description": "One word when used as a noun or an adjective. Two words when used as a verb. Examples: When the backup is complete, you&rsquo;ll see a list of all backup files. We automatically back up your website.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "backward, backwards (adv.)",
-			"Description": "Use backward in American English; backwards is more prevalent in British English.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -233,42 +139,13 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "biannual(ly), bimonthly, biweekly",
-			"Description": "Don&rsquo;t use any of these words. They can mean either every other year, month, or week, or twice a year, month, or week. Instead, use the longer but unambiguous every two years, months, or weeks, or twice a year, month, or week.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "bil",
-			"Description": "Acceptable as an abbreviation for billion when space is tight. Include a space between the number and bil. Example: Senate passes $20 bil financial aid plan. See also &ldquo;billion.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "billion",
-			"Description": "Use numerals with billion. Don&rsquo;t hyphenate the numeral and billion even before a noun. As part of a hyphenated compound, use a hyphen between the numeral and billion. Examples: 4 billion people, a $2 billion contract, 5-billion-year history. In general, spell out billion. If space is tight, bil is an acceptable abbreviation. See also &ldquo;bil.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "Bing",
 			"Description": "Capitalize when referring to Microsoft&rsquo;s search engine.",
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "biodiesel (n., adj.)",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "birth date",
-			"Description": "Two words. Not birthdate.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "bitstream (n.)",
 			"Description": "One word. A stream of data.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "black (n., adj.)",
-			"Description": "Lowercase when referring to race. African American may also be used when it is certain that the person is American. Plural: black people or some other phrase using black as an adjective is preferable to blacks (see &ldquo;Banish bias&rdquo;).",
 			"@type": "glossary-entry"
 		},
 		{
