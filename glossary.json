@@ -1,4 +1,18 @@
 {
 	"Word": "Glossary Entry",
-	"Description": "Project Description"
+	"Description": "Project Description",
+	"glossary0entry": [
+		{
+			"Word": "20-something",
+			"Description": "Note numeral and hyphen.",
+			"Image": "Image",
+			"@type": "Project"
+		},
+		{
+			"Word": "Default Glossary Entry",
+			"Description": "Description",
+			"Image": "Image",
+			"@type": "Project"
+		}
+	]
 }
