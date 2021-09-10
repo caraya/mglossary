@@ -133,11 +133,6 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "best-seller (n.), best-selling (adj.)",
-			"Description": "Note hyphen.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "beta",
 			"Description": "Capitalize beta if it is part of an official product name. Otherwise, lowercase it. Examples: Sign up for the new Yahoo! Messenger Beta. Try the beta version of Yahoo! Messenger.",
 			"@type": "glossary-entry"
@@ -188,33 +183,13 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "bowl",
-			"Description": "Capitalize when used in a proper noun: Rose Bowl Stadium, Fiesta Bowl. Lowercase when used generically: college bowl games, bowl schedule.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "bps",
-			"Description": "Abbreviation for bits per second. Lowercase. Do not include a space between the number and bps. Abbreviation is always OK.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "breadcrumb",
 			"Description": "One word. A navigational term for the path you&rsquo;ve taken to get to a certain webpage. (Breadcrumb is short for breadcrumb trail; it can also refer to the individual links in the trail.) To see an example of a breadcrumb trail, see &ldquo;User-interface text basics.&rdquo;",
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "brick-and-mortar (adj.)",
-			"Description": "Note hyphens.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "browsable",
 			"Description": "Not browseable.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "businessperson",
-			"Description": "Use this gender-neutral term instead of businessman or businesswoman. See &ldquo;Write gender-neutral copy.&rdquo;",
 			"@type": "glossary-entry"
 		},
 		{
@@ -270,11 +245,6 @@
 		{
 			"Word": "CDMA",
 			"Description": "Abbreviation for code division multiple access, a digital communication method used by some mobile devices. Abbreviation is always OK.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "cell phone (n., adj.)",
-			"Description": "Two words, no hyphen. Examples: He left the message on my cell phone. Type in your cell phone number. Note: Cell phone is interchangeable with mobile phone in the U.S.; in the U.K., mobile phone is the more common term. In parts of Asia, handphone is common.",
 			"@type": "glossary-entry"
 		},
 		{
