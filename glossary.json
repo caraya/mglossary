@@ -448,61 +448,6 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "CTR",
-			"Description": "Abbreviation for clickthrough rate. Abbreviation OK after first explanation.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "cu km",
-			"Description": "Acceptable abbreviation for cubic kilometer(s). Include a space between the number and this abbreviation. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "cu m",
-			"Description": "Acceptable abbreviation for cubic meter(s). Include a space between the number and this abbreviation. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "cu. ft.",
-			"Description": "Acceptable abbreviation for cubic foot and cubic feet. Note the periods. Include a space between the number and this abbreviation. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "cu. in.",
-			"Description": "Acceptable abbreviation for cubic inch(es). Note the periods. Include a space between the number and this abbreviation. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "cu. yd.",
-			"Description": "Acceptable abbreviation for cubic yard(s). Note the periods. Include a space between the number and this abbreviation. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "cubic feet, cubic foot",
-			"Description": "An acceptable abbreviation for cubic feet and cubic foot is cu. ft. (note the periods).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "cubic inch",
-			"Description": "An acceptable abbreviation for cubic inch(es) is cu. in. (note periods).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "cubic kilometer",
-			"Description": "An acceptable abbreviation for cubic kilometer(s) is cu km (no periods).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "cubic meter",
-			"Description": "An acceptable abbreviation for cubic meter(s) is cu m (no periods).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "cubic yard",
-			"Description": "An acceptable abbreviation for cubic yard(s) is cu. yd. (note periods).",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "customizable",
 			"Description": "Note spelling. Not customizeable.",
 			"@type": "glossary-entry"
@@ -515,36 +460,6 @@
 		{
 			"Word": "data",
 			"Description": "Treat data as a mass noun like information, taking a singular verb. Example: The data is lost.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "daylight saving time",
-			"Description": "Lowercase in all uses. Note singular saving, not savings. Example: During daylight saving time, clocks are turned forward one hour.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "debut",
-			"Description": "In general, use debut when referring to people and premiere when referring to events.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "decision maker (n.)",
-			"Description": "Two words, no hyphen.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "decision making (n.), decision-making (adj.)",
-			"Description": "Two words when used as a noun, hyphenated when used as an adjective.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Democrat, democrat (n.)",
-			"Description": "Capitalize when referring to a specific member of the Democratic Party: Barack Obama and other Democrats convened. The Illinois Democrat spoke. The plural form may be abbreviated as Dems if it will be understood in context: The Dems have reason to celebrate. Lowercase only when referring to someone who&rsquo;s an advocate for democracy but not necessarily a member of the party: Many experts believe the ancient Greeks were the first democrats.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Democratic, democratic (adj.)",
-			"Description": "Capitalize when referring to the party, a member of the party, or the committee: Democratic Party, Democratic National Committee, Democratic Sen. Hubert Humphrey. Lowercase only when referring to something or someone characterized by democracy in a general sense, but not necessarily affiliated with the Democratic Party: The class came up with a democratic solution: Put it to a vote.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -568,38 +483,13 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "digicam",
-			"Description": "One word. Acceptable abbreviation for digital camera when writing for a tech-savvy audience.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "digital age",
 			"@type": "glossary-entry",
 			"Description": "Description"
 		},
 		{
-			"Word": "digital divide",
-			"@type": "glossary-entry",
-			"Description": "Description"
-		},
-		{
-			"Word": "dingbat (n., adj.)",
-			"Description": "A typographical ornament such as ♥.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "disabled (adj.)",
-			"Description": "OK to use as an adjective when referring to people with disabilities. Example: Can disabled people access your site?  Do not use disabled as a noun, as in the disabled.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "disc, disk",
 			"Description": "Use disk when referring to a computer hard disk or floppy disk. Use disc when referring to optical disks such as compact discs (CDs), digital video/versatile discs (DVDs), and laser discs. Also: disc brake, disc jockey, videodisc.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "diss (n., v.)",
-			"Description": "Two s&rsquo;s for this word referring to an insult or the action of insulting someone.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -623,11 +513,6 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "dot-com (n., adj.)",
-			"Description": "Note hyphen, lowercase. Examples: dot-com bubble, dot-com crash, dot-com era.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "double check (n.), double-check (v.)",
 			"Description": "Two words when used as a noun, hyphenated when used as a verb. Examples: A thorough double check of the data revealed some problems. Please double-check your information for accuracy.",
 			"@type": "glossary-entry"
@@ -648,23 +533,8 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "dreamed, dreamt",
-			"Description": "The preferred U.S. spelling is dreamed. Dreamt is chiefly British and is considered a variant of dreamed in the United States.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "drop-down box",
-			"Description": "Avoid.  Yahoo! favors pull-down menu or simply menu or list. Also acceptable if used consistently: drop-down menu or drop-down list.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "drop-down menu",
 			"Description": "Yahoo! favors pull-down menu or simply menu or list.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "DTV",
-			"Description": "Abbreviation for digital television. Abbreviation is always OK. Plural: DTVs.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -678,31 +548,6 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "-esque",
-			"Description": "Close up words with this suffix unless doing so creates a readability issue, as with double vowels. Examples: Reaganesque, Dali-esque.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "e-",
-			"Description": "In general, insert a hyphen between this prefix and root words, especially if they are new. Exception: email, which is now widely accepted as one word. Examples: e-book, e-business, e-card, e-commerce, e-reader, e-tail.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "e.g.",
-			"Description": "Abbreviation meaning for example. Note periods. Don&rsquo;t include a space after the first period. OK to use when space is a consideration; otherwise, use for example, for instance, such as. If used, include a comma after the last period.  Example: Enter a search term (e.g., recipes, horoscopes, gifts) into the box.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Earth, earth",
-			"Description": "Capitalize when used as the proper name of the planet. Lowercase in all other uses. Examples: The third planet from the sun is Earth. The earth was ready for planting.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "eBay",
-			"Description": "Note capitalization of this company name. See &ldquo;Capitalization&rdquo; for information on how to treat names such as this in a title or a sentence.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "email (n., adj., v.)",
 			"Description": "One word, no hyphen. Plural: email messages and emails are both acceptable.",
 			"@type": "glossary-entry"
@@ -710,11 +555,6 @@
 		{
 			"Word": "ePub",
 			"Description": "Short for electronic publication. An open-standard e-book file format that can be read on various reading applications and hardware devices. Example: The style guide is available in the open-standard ePub format.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "ESP",
-			"Description": "Abbreviation for email service provider. Abbreviation OK to use after initial explanation. Plural: ESPs.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -728,33 +568,8 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "EV",
-			"Description": "Abbreviation for electric vehicle. Abbreviation OK to use after initial explanation.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "ex.",
-			"Description": "Note period. Acceptable abbreviation for example when space is tight or in contexts where many examples are used (such as in help documents) and e.g. is insufficient or likely to be misunderstood. Example: Some user-interface elements (for ex., buttons) should always use title-case capitalization. Ex.: A button with the text &ldquo;See more info&rdquo; should read &ldquo;See More Info&rdquo;.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "ExpressCard (adj.)",
-			"Description": "Trademarked name for a PCMCIA hardware standard and for related hardware devices, such as a card that you can plug into a computer to provide memory storage, wireless connectivity, or other features. Plural: ExpressCard modules. Example: The computer comes with an ExpressCard/34 card slot. Insert the ExpressCard module into the ExpressCard slot.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "eye tracking (n.), eye-tracking (adj.)",
 			"Description": "Two words when used as a noun, hyphenated when used as an adjective. Example: Eye-tracking studies give us a clue about how people scan webpages.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Fahrenheit",
-			"Description": "An acceptable abbreviation for degree(s) Fahrenheit is °F.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "fall (n., adj.)",
-			"Description": "Lowercase the season name.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -793,16 +608,6 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "feet, foot",
-			"Description": "An acceptable abbreviation for feet and foot is ft. (note the period).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "fiancé, fiancée",
-			"Description": "Use the former to refer to a man (Kate&rsquo;s fianc&eacute;), the latter to refer to a woman (Will&rsquo;s fianc&eacute;e). OK to use accented character in webpage copy and HTML emails, but use fiance or fiancee (with no accent) in plain-text emails, in copy that may appear in an RSS feed, and in other places where special characters are not always supported (in comment systems and certain content management systems, for example)&mdash;such characters may become garbled. (Alternative style: Use the unaccented version in all cases to simplify decision making for editors; this term without accents is unlikely to be misread in English.)",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "fifty-fifty",
 			"Description": "Using numerals (&ldquo;50-50&rdquo;) is preferable.",
 			"@type": "glossary-entry"
@@ -810,21 +615,6 @@
 		{
 			"Word": "file name",
 			"Description": "Two words. Not filename.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "firefighter",
-			"Description": "Use this term instead of fireman. See &ldquo;Write gender-neutral copy.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "fl. oz.",
-			"Description": "Acceptable abbreviation for fluid ounce(s). Note periods. Include a space between the number and this abbreviation. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "flak",
-			"Description": "Not flack, when referring to heavy criticism: Palin took flak for her $150,000 shopping spree.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -848,23 +638,8 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "fluid ounces",
-			"Description": "An acceptable abbreviation for fluid ounce(s) is fl. oz. (note periods).",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "foreign (adj.)",
 			"Description": "In some contexts, using the term foreign is appropriate: Rice plans to write a book about American foreign policy. In other contexts, using foreign can seem exclusionary: It assumes that the reader has the same home country as you, which may not be true—in fact, your reader may be a part of whatever you describe as &ldquo;foreign.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "former Pres.",
-			"Description": "Acceptable abbreviation for former President: The guest speaker was former Pres. George W. Bush.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "former president",
-			"Description": "Do not use president or ex-president when referring to past presidents. Capitalize as former President only when used before a name: former President George W. Bush (it may also be abbreviated as former Pres. George W. Bush). Lowercase when used without a name: The former president offered his congratulations.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -873,19 +648,9 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "friend (n., v.)",
-			"Description": "OK to use as a verb when referring to inviting someone to be your friend on a social-networking site. Example: Would you friend your boss? You&rsquo;ll never believe who just friended me.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "front end (n.), front-end (adj.)",
 			"@type": "glossary-entry",
 			"Description": "Description"
-		},
-		{
-			"Word": "ft.",
-			"Description": "Acceptable abbreviation for feet and foot. Note the period. Include a space between the number and ft. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
 		},
 		{
 			"Word": "FTP",
@@ -895,16 +660,6 @@
 		{
 			"Word": "function keys",
 			"Description": "Lowercase. Refers to the F1 through F12 keys on a keyboard.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "g",
-			"Description": "Acceptable abbreviation for gram(s). Include a space between the number and g. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "G",
-			"Description": "Don&rsquo;t use as an abbreviation for thousand, gigabyte, or gigahertz. Instead, use K, GB, and GHz, respectively.",
 			"@type": "glossary-entry"
 		},
 		{
