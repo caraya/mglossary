@@ -1668,38 +1668,8 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "mg",
-			"Description": "Acceptable abbreviation for milligram(s). Include a space between the number and mg. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "MHz",
-			"Description": "Abbreviation for megahertz. Note capitalization. Don&rsquo;t include a space between the number and MHz.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "mi.",
-			"Description": "Acceptable abbreviation for mile(s). Note the period. Include a space between the number and mi. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "mic",
-			"Description": "Do not use. See &ldquo;mike.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "mice",
-			"Description": "Plural of mouse even when referring to a computer mouse.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "microblog (v.), microblogging (n., adj.)",
 			"Description": "No hyphen. To microblog is to post short status updates about yourself or about an event using a microblogging service such as Twitter.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "microgram",
-			"Description": "An acceptable abbreviation for microgram(s) is mcg (no period).",
 			"@type": "glossary-entry"
 		},
 		{
@@ -1713,88 +1683,13 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "mid-",
-			"Description": "When forming words with the prefix mid-, don&rsquo;t use a hyphen unless a capitalized word follows: midcentury, mid-Victorian.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "MIDI",
 			"Description": "Acronym for Musical Instrument Digital Interface. All capitals. Acronym is always OK.",
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "mike",
-			"Description": "Shortened form of microphone.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "mil",
-			"Description": "Acceptable as an abbreviation for million only when space is tight. Include a space between the numeral and mil. Example: Rare card sells for $2.3 mil (headline).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "mile",
-			"Description": "An acceptable abbreviation for mile(s) is mi. (note period).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "milligram",
-			"Description": "An acceptable abbreviation for milligram(s) is mg (no period).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "milliliters",
-			"Description": "An acceptable abbreviation for milliliter(s) is ml (no period).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "millimeter",
-			"Description": "An acceptable abbreviation for millimeter(s) is mm (no period).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "million",
-			"Description": "Use numerals with million. Don&rsquo;t hyphenate the numeral and million, even before a noun. As part of a hyphenated compound, use a hyphen between the numeral and million. Examples: 2.8 million, a $3 million budget, a 7-million-year-old fossil. In general, spell out million, but if space is tight, mil is an acceptable abbreviation. Don&rsquo;t abbreviate as M.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "min.",
-			"Description": "Acceptable abbreviation for minute(s). Note the period. Include a space between the number and min. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "MiniDisc",
-			"Description": "One word. Note capitalization of this Sony product name. Plural: MiniDisc devices or MiniDisc cartridges.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "minute",
-			"Description": "An acceptable abbreviation for minute(s) is min. Note the period.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "ml",
-			"Description": "Acceptable abbreviation for milliliter(s). Include a space between the number and ml. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "mm",
-			"Description": "Acceptable abbreviation for millimeter(s). Include a space between the number and mm. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "mobile (n., adj.)",
 			"Description": "Acceptable as a noun when it&rsquo;s a shortened form of mobile phone. Mobile phone is interchangeable with cell phone in the U.S.; in the U.K., mobile phone is the more common term. In parts of Asia, handphone is common.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "moblog (n., v.), moblogging (n.)",
-			"Description": "Lowercase. Abbreviated form of mobile blogging.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "moon",
-			"Description": "Lowercase. Examples: On July 20, 1969, Neil Armstrong became the first man to walk on the moon. Mercury does not have a moon.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -1808,58 +1703,8 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "mpg",
-			"Description": "Abbreviation for miles per gallon. All lowercase, no spaces, no periods. Include a space between the number and mpg.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "mph",
-			"Description": "Abbreviation for miles per hour. All lowercase, no spaces, no periods. Include a space between the number and mph.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "multi-",
-			"Description": "Generally, close up this prefix with root words unless the root word starts with an i or a capital letter—if it does, insert a hyphen. Examples: multiplayer, multiuser, multi-industry.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "music fest",
-			"Description": "Two words. Plural: music fests.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": ".Net",
 			"Description": "See &ldquo;Microsoft .Net.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "nanogram",
-			"Description": "An acceptable abbreviation for nanogram(s) is ng (no period).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "nanometer",
-			"Description": "An acceptable abbreviation for nanometer(s) is nm (no period).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "NASCAR",
-			"Description": "Note capitalization of this National Association for Stock Car Auto Racing trademark.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Nasdaq",
-			"Description": "Note capitalization of this Nasdaq Stock Market trademark.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Native American (n., adj.)",
-			"Description": "Two words, no hyphen. Can be used interchangeably with American Indian where appropriate, but follow the subject&rsquo;s preference and use a more specific name (such as Lakota Sioux or Navajo) where possible.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "natl.",
-			"Description": "An acceptable abbreviation for national when space is limited.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -1878,53 +1723,8 @@
 			"Description": "Description"
 		},
 		{
-			"Word": "ng",
-			"Description": "Acceptable abbreviation for nanogram(s). Include a space between the number and ng. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Ni-MH",
-			"Description": "Acceptable abbreviation for nickel-metal hydride, a type of battery. Note capitalization, hyphen.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "NIC",
 			"Description": "Acronym for network interface card, pronounced &ldquo;nick&rdquo; (a NIC). Acronym OK to use after initial explanation. Plural: NICs.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "nickel-metal hydride (n., adj.)",
-			"Description": "Lowercase the written-out form of this battery type.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "nm",
-			"Description": "Acceptable abbreviation for nanometer(s). Include a space between the number and nm. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "no-no (n.)",
-			"Description": "Note hyphen. Plural: no-no&rsquo;s (note apostrophe).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "No. 1",
-			"Description": "Abbreviation for number one. Note capitalization. See also &ldquo;number one.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "non-",
-			"Description": "Generally, close up this prefix with root words unless the root word starts with a capital letter—if it does, insert a hyphen. Examples: noncommercial, nonfiction, nonprofit, non-Darwinian.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "number one (n., adj.)",
-			"Description": "No hyphen as an adjective. Example: She is our number one sales rep by far.  OK to abbreviate as No. 1.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "NYC",
-			"Description": "Abbreviation for New York City. All capitals, no periods, no spaces. Use only when space is tight.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -1973,49 +1773,9 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "ounce",
-			"Description": "An acceptable abbreviation for ounce(s) is oz. (note period).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "outbox",
-			"@type": "glossary-entry",
-			"Description": "Description"
-		},
-		{
-			"Word": "overclocking (n.), overclock (v.)",
-			"Description": "One word. Refers to practice of adjusting a computer&rsquo;s CPU to make it run faster than the manufacturer intended it to.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "oz.",
-			"Description": "Acceptable abbreviation for ounce(s). Note period. Include a space between the number and oz. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "p.m.",
-			"Description": "Lowercase, no space. Include a space between the number and p.m. See &ldquo;Time.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Pacific Islander (n., adj.)",
-			"Description": "Two words, no hyphen. Refers to the native peoples of Polynesia (including Hawaii, Samoa, Tahiti, and Tonga), Micronesia (including Guam, the Northern Marianas, and Palau), and Melanesia (including Fiji and Papua New Guinea).",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "page view",
 			"Description": "Two words. The viewing of a webpage by one visitor. (Advertisers consider how many page views a site receives when deciding where and how to advertise.)",
 			"@type": "glossary-entry"
-		},
-		{
-			"Word": "passcode",
-			"@type": "glossary-entry",
-			"Description": "Description"
-		},
-		{
-			"Word": "passphrase",
-			"@type": "glossary-entry",
-			"Description": "Description"
 		},
 		{
 			"Word": "password",
@@ -2038,11 +1798,6 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "PC call",
-			"Description": "OK to use for a PC-to-PC phone call. Use as a noun only. For a verb form, use place a PC call, make a PC call, use your PC to call, make calls from your PC, or similar.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "PDA",
 			"Description": "Abbreviation for personal digital assistant. Abbreviation is OK as long as context is clear (abbreviation can also mean public display of affection). Plural: PDAs.",
 			"@type": "glossary-entry"
@@ -2058,18 +1813,8 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "percent",
-			"Description": "See &ldquo;Percentages.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "pharming",
 			"Description": "Redirecting traffic from a legitimate website to a hacker&rsquo;s spoof website that appears legitimate.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "PhD",
-			"Description": "Abbreviation for Doctor of Philosophy. No periods. [Updated to apply title case to the full name of the degree.]",
 			"@type": "glossary-entry"
 		},
 		{
@@ -2080,16 +1825,6 @@
 		{
 			"Word": "Photoshop",
 			"Description": "Note capitalization of this Adobe trademark. Use the term as an adjective or a proper noun, and do not use it as a verb.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "PIN",
-			"Description": "Abbreviation for personal identification number. All capitals. Not PIN number.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "pint",
-			"Description": "An acceptable abbreviation for pint(s) is pt. (note period). Note: A pint is a different measurement in the U.S. and the U.K.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -2118,43 +1853,13 @@
 			"Description": "Description"
 		},
 		{
-			"Word": "police officer",
-			"Description": "Use this term instead of policeman or policewoman. See &ldquo;Write gender-neutral copy.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "pop-up (n., adj.), pop up (v.)",
 			"Description": "Note hyphen when used as a noun or adjective. Not popup. Two words when used as a verb. Examples: Get rid of pop-ups before they pop up. Stop pop-up ads from ever annoying you again.",
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "pope",
-			"Description": "Lowercase unless used as a formal title before a name. Examples: The pope pushed for social and health care reforms. The president met with Pope Benedict XVI.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "post-",
-			"Description": "Generally, close up this prefix with root words unless the root word starts with a capital letter—if it does, insert a hyphen. Examples: postgame, posttrial, postproduction, post-Victorian.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Post-it",
-			"Description": "Note hyphen and capitalization of this 3M trademark.  Do not use the term as a noun or add an s to make the term plural.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "postal worker",
-			"Description": "Use this term instead of postman. See &ldquo;Write gender-neutral copy.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "pound",
-			"Description": "An acceptable abbreviation for the unit of English measure pound(s) is lb. (note period).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "pre-",
-			"Description": "Generally, close up this prefix with root words unless the root word starts with an e or a capital letter—if it does, insert a hyphen. Examples: pre-enrollment, preproduction, pre-MP3.",
+			"Word": "Premiere (computer program)",
+			"Description": "Always capitalized when referring to the video editing application",
 			"@type": "glossary-entry"
 		},
 		{
@@ -2163,63 +1868,18 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "Pres.",
-			"Description": "Acceptable abbreviation for President: Pres. Obama.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "president, President",
-			"Description": "Lowercase unless used as a formal title before a name: President Barack Obama. In this case, it may also be abbreviated as Pres. (note period): Pres. Obama. Do not use president or President to refer to former presidents.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "president-elect (n.)",
-			"Description": "Note hyphen. Refers to a candidate who has been elected but not yet inaugurated. Use President-elect before a name: President-elect Barack Obama. Otherwise use president-elect: He was the first African American president-elect.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "press",
 			"Description": "When referring to a key on a keyboard, use press. Use click (for a button, link, or other interface element) or click on (for a file, photograph, icon, etc.) for the mouse action. See &ldquo;Mouse actions.&rdquo;",
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "primetime (n., adj.)",
-			"@type": "glossary-entry",
-			"Description": "Description"
-		},
-		{
-			"Word": "print (v.)",
-			"Description": "When instructing readers to create a hard copy of a document, use print. In the U.S., print out can also be used; in the U.K., print off.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "printout (n.), print out (v.)",
-			"Description": "One word when used as a noun. Two words when used as a verb. Example: I&rsquo;ll print out a copy of the article and mark my edits on the printout.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "promo",
-			"Description": "Short form of promotional message, promotional announcement, or something similar. OK to use when space is tight as a heading for a promotion or promotional box.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "PS2, PS3",
-			"Description": "OK to use as abbreviations for Sony products PlayStation 2 and PlayStation 3 as long as their meaning has been made clear. All capitals, no spaces.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "pt.",
-			"Description": "Acceptable abbreviation for pint(s). Note period. Include a space between the number and pt. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
+			"Word": "PS2, PS3, PS4, PS5",
+			"Description": "OK to use as abbreviations for Sony PlayStation products as long as their meaning has been made clear. All capitals, no spaces.",
 			"@type": "glossary-entry"
 		},
 		{
 			"Word": "pull-down menu",
 			"Description": "Note hyphen. Preferred to drop-down menu or drop-down box. Also OK: menu, list.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "push-to-talk (n., adj.)",
-			"Description": "Lowercase, hyphenated. Example: They used push-to-talk to keep in touch during the night.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -2233,33 +1893,13 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "qt.",
-			"Description": "Acceptable abbreviation for quart(s). Note period. Include a space between the number and qt. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "quart",
-			"Description": "An acceptable abbreviation for quart(s) is qt. (note period). Note: A quart is a different measurement in the U.S. and the U.K.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "QuickTime",
 			"Description": "One word. Note capitalization of this Apple trademark.",
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "racecar",
-			"@type": "glossary-entry",
-			"Description": "Description"
-		},
-		{
 			"Word": "RAM",
 			"Description": "Abbreviation for random access memory. Abbreviation is always OK.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "re-",
-			"Description": "Generally, close up this prefix with root words unless the root word starts with an e or a capital letter—if it does, insert a hyphen. Exceptions: re-create, re-cover, and re-sent (to avoid confusion with recreate, recover, and resent). Examples: re-elect, reunify, resubscribe, re-FTP.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -2273,43 +1913,13 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "reality TV (n., adj.)",
-			"@type": "glossary-entry",
-			"Description": "Description"
-		},
-		{
-			"Word": "representative",
-			"Description": "For members of Congress, use Rep. or Reps. before a name: Rep. John Smith; Reps. Smith and Jones. Otherwise lowercase and don&rsquo;t abbreviate: The representative from Illinois. Representative is also a good gender-neutral alternative to salesman or saleswoman: Call your sales representative.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Republican (n., adj.)",
-			"Description": "Capitalize when referring to the party, a member of the party, or the committee: Republican Party, Republican National Committee, Republican John McCain. Lowercase only when referring to something or someone characterized by republicanism in a general sense, but not necessarily affiliated with the Republican Party.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "resubscribe (v.)",
 			"@type": "glossary-entry",
 			"Description": "Description"
 		},
 		{
-			"Word": "resumé",
-			"Description": "Accent on the last e only. OK to use accented character in webpage copy and HTML emails, but use resume (with no accent) in plain-text emails, in copy that may appear in an RSS feed, and in other places where special characters are not always supported (in comment systems and certain content management systems, for example)&mdash;such characters may become garbled.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "retweet (n., v.)",
 			"Description": "A message re-sent via Twitter or the resending of such a message. Often abbreviated as RT. Past tense: retweeted.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Rev.",
-			"Description": "Abbreviation for Reverend. When used before a person&rsquo;s name, precede with the.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Reverend",
-			"Description": "An honorific. The abbreviation Rev. is always OK. When used before a person&rsquo;s name, Reverend and Rev. are preceded by the. Examples: The Reverend Ralph David Abernathy was an associate of Martin Luther King Jr. Last week the Rev. Miller presided over the service.",
 			"@type": "glossary-entry"
 		},
 		{
