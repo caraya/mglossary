@@ -2448,11 +2448,6 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "Sept. 11",
-			"Description": "Preferred abbreviation for September 11, 2001. When space is very tight, 9/11 may also be used.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "setup (n., adj.), set up (v.)",
 			"Description": "One word when used as a noun or an adjective. Two words when used as a verb. Examples: Set up your Yahoo! store. Check your Yahoo! store setup. Your setup fee has been waived.",
 			"@type": "glossary-entry"
@@ -2460,16 +2455,6 @@
 		{
 			"Word": "short code",
 			"Description": "Two words when used in a mobile or telecommunications context.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "showtime",
-			"Description": "Lowercase unless referring to the cable network.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "shwag",
-			"Description": "Do not use. See &ldquo;swag&rdquo;",
 			"@type": "glossary-entry"
 		},
 		{
@@ -2483,11 +2468,6 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "sign-in seal",
-			"Description": "Lowercase. Note hyphen. A secret message or image created to help protect against phishing. Examples: Create a sign-in seal for this computer. My sign-in seal is not displaying.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "sign-out (n., adj.); sign out, sign out of (v.)",
 			"Description": "As a noun or an adjective, it&rsquo;s hyphenated. As a verb, it&rsquo;s two words, which may be followed by the preposition of. Because it sounds less technical, Yahoo! prefers sign out to log out or log off.",
 			"@type": "glossary-entry"
@@ -2495,11 +2475,6 @@
 		{
 			"Word": "sign-up (n., adj.), sign up (v.)",
 			"Description": "Hyphenate when used as a noun or an adjective. Two words when used as a verb. Examples: Sign up for the service. Fill in the sign-up form. Sign-up is free.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "SIM card",
-			"Description": "SIM stands for subscriber identity module, a card used in cell phones. Abbreviation is always OK.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -2513,11 +2488,6 @@
 			"Description": "Description"
 		},
 		{
-			"Word": "smart card",
-			"@type": "glossary-entry",
-			"Description": "Description"
-		},
-		{
 			"Word": "smartphone",
 			"@type": "glossary-entry",
 			"Description": "Description"
@@ -2525,16 +2495,6 @@
 		{
 			"Word": "SMS",
 			"Description": "Abbreviation for short message service, used for text messaging. Abbreviation OK to use after initial explanation.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "snail mail",
-			"@type": "glossary-entry",
-			"Description": "Description"
-		},
-		{
-			"Word": "sneak peek",
-			"Description": "Not peak.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -2551,21 +2511,6 @@
 			"Word": "social networking (n.), social-networking (adj.)",
 			"Description": "Note hyphen when used as an adjective. Two words when used as a noun. Examples: The social-networking phenomenon has really taken off. To attract users, the site added social networking.",
 			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Social Security number",
-			"Description": "Note capitalization.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "socioeconomic",
-			"Description": "Close up this and other two-thought compounds. See &ldquo;two-thought compounds.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "sound bite",
-			"@type": "glossary-entry",
-			"Description": "Description"
 		},
 		{
 			"Word": "soundcheck",
@@ -2588,34 +2533,14 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "spammer",
-			"@type": "glossary-entry",
-			"Description": "Description"
-		},
-		{
 			"Word": "spell-checker (n.), spell-check (v.)",
 			"Description": "Note hyphen.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "spokesperson",
-			"Description": "Use this term instead of spokesman or spokeswoman. See &ldquo;Write gender-neutral copy.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "spring, springtime",
-			"Description": "Lowercase the season name.",
 			"@type": "glossary-entry"
 		},
 		{
 			"Word": "spyware",
 			"@type": "glossary-entry",
 			"Description": "Description"
-		},
-		{
-			"Word": "sq km",
-			"Description": "Acceptable abbreviation for square kilometer(s). Include a space between the number and this abbreviation. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
 		},
 		{
 			"Word": "standalone (adj.)",
