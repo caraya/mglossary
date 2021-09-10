@@ -278,38 +278,8 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "Celsius",
-			"Description": "An acceptable abbreviation for degree(s) Celsius is °C. See also &ldquo;°C.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "centigram",
-			"Description": "An acceptable abbreviation for centigram(s) is cg (no period).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "centiliter",
-			"Description": "An acceptable abbreviation for centiliter(s) is cl (no period).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "centimeter",
-			"Description": "An acceptable abbreviation for centimeter(s) is cm (no period).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "cg",
-			"Description": "Acceptable abbreviation for centigram(s). Include a space between the number and cg. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "CGI",
 			"Description": "Do not use the initialism alone in a first reference. Use one of the following instead, depending on the term you&rsquo;re referring to: computer-generated imaging (CGI), common gateway interface (CGI), or computer graphics interface (CGI). OK to use CGI by itself in subsequent references.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "chair, chairperson",
-			"Description": "Use these gender-neutral terms rather than chairman or chairwoman. See &ldquo;Write gender-neutral copy.&rdquo;",
 			"@type": "glossary-entry"
 		},
 		{
@@ -330,11 +300,6 @@
 		{
 			"Word": "checkout (n., adj.), check out (v.)",
 			"Description": "One word when used as a noun or an adjective. Two words when used as a verb. Examples: The checkout process is very short. You enter this information during checkout. You&rsquo;ll find that you can check out very quickly.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "cl",
-			"Description": "Acceptable abbreviation for centiliter(s). Include a space between the number and cl. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
 			"@type": "glossary-entry"
 		},
 		{
@@ -373,43 +338,8 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "cm",
-			"Description": "Acceptable abbreviation for centimeter(s). Include a space between the number and cm. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "co-",
-			"Description": "Generally, use a hyphen between this prefix and a root word unless the word is one that your dictionary closes up (for example, cooperation, coordinate). But always use a hyphen when the resulting word denotes a shared occupation or status. Examples: co-creator, co-host, co-parent, co-star, co-worker.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "CO2",
-			"Description": "Abbreviation for carbon dioxide. (Subscript 2 is not recommended for online content.)",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "codec",
 			"Description": "Short for coder/decoder. Short form is always OK.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "commercial-free",
-			"Description": "Hyphenate in all instances.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Congress",
-			"Description": "Use when referring to both the U.S. Senate and the House of Representatives. Note capitalization.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "congressman, congresswoman",
-			"Description": "Don&rsquo;t use. Before a name, use Rep. or Sen.: Sen. John McCain. In references without a name, use senator, representative, or congressperson: The congressperson from Ohio spoke first. See &ldquo;Write gender-neutral copy.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "congressperson",
-			"Description": "Use this term (or representative or senator) rather than congressman or congresswoman. See &ldquo;Write gender-neutral copy.&rdquo;",
 			"@type": "glossary-entry"
 		},
 		{
@@ -420,11 +350,6 @@
 		{
 			"Word": "corrupted",
 			"Description": "Use corrupted, not corrupt, to describe a file or data. Example: The file was corrupted—I couldn&rsquo;t open it. Delete the corrupted file.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "craftsperson",
-			"Description": "Use this term instead of craftsman to refer to a person. See &ldquo;Write gender-neutral copy.&rdquo;",
 			"@type": "glossary-entry"
 		},
 		{
