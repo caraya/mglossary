@@ -49,11 +49,13 @@
 		},
 		{
 			"Word": "address book",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "adware",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "aka",
@@ -87,7 +89,8 @@
 		},
 		{
 			"Word": "audio conference",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "auto-renew (adj., v.)",
@@ -106,7 +109,8 @@
 		},
 		{
 			"Word": "back end (n.), back-end (adj.)",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "backdoor (n., adj.)",
@@ -220,7 +224,8 @@
 		},
 		{
 			"Word": "camera phone",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "cancellation (n.), canceled, canceling (v.)",
@@ -309,7 +314,8 @@
 		},
 		{
 			"Word": "chat room",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "check-in (n., adj.), check in (v.)",
@@ -318,7 +324,8 @@
 		},
 		{
 			"Word": "checkbox",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "checkout (n., adj.), check out (v.)",
@@ -337,7 +344,8 @@
 		},
 		{
 			"Word": "clickable",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "clickthrough (n., adj.), click through (v.)",
@@ -351,7 +359,8 @@
 		},
 		{
 			"Word": "clip art",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "closed caption (n.), closed-caption (adj.)",
@@ -425,7 +434,8 @@
 		},
 		{
 			"Word": "crowdsource, crowdsourcing",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "CSS",
@@ -564,11 +574,13 @@
 		},
 		{
 			"Word": "digital age",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "digital divide",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "dingbat (n., adj.)",
@@ -747,15 +759,18 @@
 		},
 		{
 			"Word": "fan page",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "fanbase",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "fansite (n.)",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "FAQ",
@@ -769,7 +784,8 @@
 		},
 		{
 			"Word": "fax",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "feed reader",
@@ -863,7 +879,8 @@
 		},
 		{
 			"Word": "front end (n.), front-end (adj.)",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "ft.",
@@ -1012,7 +1029,8 @@
 		},
 		{
 			"Word": "guestbook",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "GUI",
@@ -1056,11 +1074,13 @@
 		},
 		{
 			"Word": "help desk (n., adj.)",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "help pages",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "high speed (n.), high-speed (adj.)",
@@ -1069,7 +1089,8 @@
 		},
 		{
 			"Word": "hip-hop (n., adj.)",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "Hispanic",
@@ -1088,7 +1109,8 @@
 		},
 		{
 			"Word": "homepage",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "Hon.",
@@ -1107,7 +1129,8 @@
 		},
 		{
 			"Word": "host name",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "hot swap (n.), hot swapping (n.); hot-swappable (adj.), hot-swap (v.)",
@@ -1196,7 +1219,8 @@
 		},
 		{
 			"Word": "inbox",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "inch",
@@ -1210,7 +1234,8 @@
 		},
 		{
 			"Word": "inkjet",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "instant message (n.), instant-message (adj., v.)",
@@ -1309,7 +1334,8 @@
 		},
 		{
 			"Word": "junk mail",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "K",
@@ -1538,11 +1564,13 @@
 		},
 		{
 			"Word": "mailbox",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "malware",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "man (n., v.)",
@@ -1626,11 +1654,13 @@
 		},
 		{
 			"Word": "metadata (n.)",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "metatag (n.)",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "meter",
@@ -1674,7 +1704,8 @@
 		},
 		{
 			"Word": "microsite",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "Microsoft .Net",
@@ -1838,11 +1869,13 @@
 		},
 		{
 			"Word": "news feed (n.)",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "newsreader",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "ng",
@@ -1901,11 +1934,13 @@
 		},
 		{
 			"Word": "offline",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "offscreen",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "OK",
@@ -1914,11 +1949,13 @@
 		},
 		{
 			"Word": "online",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "onscreen",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "open source (n.), open-source (adj.)",
@@ -1942,7 +1979,8 @@
 		},
 		{
 			"Word": "outbox",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "overclocking (n.), overclock (v.)",
@@ -1971,15 +2009,18 @@
 		},
 		{
 			"Word": "passcode",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "passphrase",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "password",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "password-protect (v.)",
@@ -2058,7 +2099,8 @@
 		},
 		{
 			"Word": "playlist",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "PlayStation",
@@ -2072,7 +2114,8 @@
 		},
 		{
 			"Word": "podcast",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "police officer",
@@ -2141,7 +2184,8 @@
 		},
 		{
 			"Word": "primetime (n., adj.)",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "print (v.)",
@@ -2205,7 +2249,8 @@
 		},
 		{
 			"Word": "racecar",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "RAM",
@@ -2229,7 +2274,8 @@
 		},
 		{
 			"Word": "reality TV (n., adj.)",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "representative",
@@ -2243,7 +2289,8 @@
 		},
 		{
 			"Word": "resubscribe (v.)",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "resumé",
@@ -2277,7 +2324,8 @@
 		},
 		{
 			"Word": "ringtone",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "rock 'n' roll",
@@ -2286,7 +2334,8 @@
 		},
 		{
 			"Word": "roundup (n.)",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "RSS",
@@ -2315,11 +2364,13 @@
 		},
 		{
 			"Word": "screen capture",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "screen name",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "screen reader",
@@ -2328,23 +2379,28 @@
 		},
 		{
 			"Word": "screencast",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "screensaver",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "screenshot",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "scroll bar",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "scroll wheel",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "season",
@@ -2368,7 +2424,8 @@
 		},
 		{
 			"Word": "security key",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "Senate",
@@ -2417,7 +2474,8 @@
 		},
 		{
 			"Word": "sidebar",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "sign-in (n., adj.); sign in, sign in to (v.)",
@@ -2446,19 +2504,23 @@
 		},
 		{
 			"Word": "site map",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "slideshow (n., adj.)",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "smart card",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "smartphone",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "SMS",
@@ -2467,7 +2529,8 @@
 		},
 		{
 			"Word": "snail mail",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "sneak peek",
@@ -2501,19 +2564,23 @@
 		},
 		{
 			"Word": "sound bite",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "soundcheck",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "soundstage",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "spacebar",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "spam (n., adj., v.)",
@@ -2522,7 +2589,8 @@
 		},
 		{
 			"Word": "spammer",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "spell-checker (n.), spell-check (v.)",
@@ -2541,7 +2609,8 @@
 		},
 		{
 			"Word": "spyware",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "sq km",
@@ -2549,68 +2618,9 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "sq m",
-			"Description": "Acceptable abbreviation for square meter(s). Include a space between the number and this abbreviation. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "sq. ft.",
-			"Description": "Acceptable abbreviation for square foot and square feet. Note the periods. Include a space between the number and this abbreviation. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "sq. in.",
-			"Description": "Acceptable abbreviation for square inch(es). Note the periods. Include a space between the number and this abbreviation. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "sq. mi.",
-			"Description": "Acceptable abbreviation for square mile(s). Note the periods. Include a space between the number and this abbreviation. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "sq. yd.",
-			"Description": "Acceptable abbreviation for square yard(s). Note the periods. Include a space between the number and this abbreviation. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "square foot",
-			"Description": "An acceptable abbreviation for square foot and square feet is sq. ft. (note the periods).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "square inch",
-			"Description": "An acceptable abbreviation for square inch(es) is sq. in. (note periods).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "square kilometer",
-			"Description": "An acceptable abbreviation for square kilometer(s) is sq km (no periods).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "square meter",
-			"Description": "An acceptable abbreviation for square meter(s) is sq m (no periods).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "square mile",
-			"Description": "An acceptable abbreviation for square mile(s) is sq. mi. (note periods).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "square yard",
-			"Description": "An acceptable abbreviation for square yard(s) is sq. yd. (note periods).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "SSN",
-			"Description": "Abbreviation for Social Security number. Do not use SSN number. See also &ldquo;Social Security number.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "standalone (adj.)",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "startup (n., adj.), start up (v.)",
@@ -2623,48 +2633,8 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "sub-",
-			"Description": "Generally, close up this prefix with root words unless the root word starts with a capital letter—if it does, insert a hyphen. Example: subdomain.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "SULEV",
-			"Description": "Acronym for super-ultra-low-emission vehicle. Acronym OK to use after initial explanation. Pronounced &ldquo;soo-lev&rdquo; (a SULEV). Plural: SULEVs.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "summer, summertime",
-			"Description": "Lowercase the season name.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "super-",
-			"Description": "Generally, when super- is a prefix, close up the prefix with root words unless the root word starts with a capital letter; if it does, insert a hyphen. Examples: superdelegate, superfood, supercharge, super-PC.  Note: If you can substitute fabulous or excellent for super, it&rsquo;s an adjective, not a prefix. Example: What a super friend you are! (What an excellent friend you are!) And if you can substitute especially or extremely for super (and the compound is not a well-known word in the dictionary, such as supercharged), then super is probably an adverb, not a prefix. Example: What a super sweet friend you are! (What an extremely sweet friend you are!)",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "SUV",
-			"Description": "Acronym for sport-utility vehicle. Acronym is always OK.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "swag",
-			"Description": "Free goods. Not schwag or shwag.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "sync, synched, synching (v.)",
 			"Description": "No h in sync. The other verb forms have an h to make them easier to read correctly at first glance. (Without the h, people may initially read syncing as &ldquo;since-ing.&rdquo;)",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "T-shirt",
-			"Description": "Note capitalization and hyphen.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "tea party",
-			"Description": "Lowercase, even when referring to the political group or movement.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -2679,16 +2649,12 @@
 		},
 		{
 			"Word": "text box",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "text message (n.), text-message (adj., v.)",
 			"Description": "Two words when used as a noun. Note hyphen when used as an adjective or a verb. Examples: She had a heated text-message argument with her boyfriend. Did you get my text message? I&rsquo;ll text-message you with the details.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "thank-you (n., adj.), thank you (v. + obj.)",
-			"Description": "Note hyphen when used as a noun or an adjective. Two words when used as a verb and object. Plural: thank-yous. Examples: As a thank-you for your participation, you&rsquo;ll receive a $10 gift card. Please accept this thank-you gift for your participation. We would like to thank you for participating.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -2697,28 +2663,8 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "thousand",
-			"Description": "In general, spell out thousand, but if space is tight, K is an acceptable abbreviation. Don&rsquo;t abbreviate as M or G. Example: Contestant wins $5K on game show (headline).",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "thumb drive",
 			"Description": "Two words, lowercase. Another name for flash drive.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "timeshift, timeshifting",
-			"Description": "One word. Refers to recording and storing a program to watch or to listen to later.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "TiVo",
-			"Description": "Note capitalization.  Do not use this trademark generically or as a verb, and don&rsquo;t add an s to form a plural.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "to-do (n., adj.)",
-			"Description": "Hyphenate when using as a noun or adjective. Use an apostrophe in the plural form: to-do&rsquo;s. Capitalize as To-Do in title case.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -2738,41 +2684,28 @@
 		},
 		{
 			"Word": "touchpad (n., adj.)",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "touchscreen (n., adj.)",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "toward, towards",
-			"Description": "The preferred U.S. spelling is toward. Towards is chiefly British and is considered a variant of toward in the United States.",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "trackball (n., adj.)",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "trade show (n., adj.)",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "trainwreck (n.)",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "trans fat (n.)",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "trash-talking (n., adj., v.), trash-talker (n.)",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "traveler (n.); traveled, traveling (v.)",
-			"Description": "The preferred U.S. spelling has one l. The preferred British spelling has two l&rsquo;s.",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "Trojan horse",
@@ -2781,17 +2714,8 @@
 		},
 		{
 			"Word": "troubleshoot",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "turnout (n.), turn out (v.)",
-			"Description": "One word when used as a noun: We expect a huge voter turnout. Two words when used as a verb: Let&rsquo;s see how many voters turn out for this election.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "TV",
-			"Description": "Abbreviation is always OK. Plural: TVs.",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "tweet (n., v.)",
@@ -2814,33 +2738,14 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "U.K. (n., adj.)",
-			"Description": "Abbreviation for United Kingdom. Note periods, no space. Use UK (with no periods) only in postal addresses.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "U.N. (n., adj.)",
-			"Description": "Abbreviation for United Nations. Note periods, no space.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "U.S. (n., adj.)",
-			"Description": "Abbreviation for United States. Note periods, no space. Not US or U. S. The single exception is specifying currency in prices; in this case, do not include the periods. Example: US$299.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "UI",
 			"Description": "Abbreviation for user interface. Abbreviation OK to use after initial explanation.",
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "unfriend (v.)",
-			"Description": "OK to use as a verb meaning to remove a friend from one&rsquo;s network on a social-networking site. Example: Carrie unfriended everyone who humiliated her at the prom.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "UNIX",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "up-to-date",
@@ -2863,11 +2768,6 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "USA",
-			"Description": "Abbreviation for United States of America. Abbreviation is always OK.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "USB",
 			"Description": "Abbreviation for Universal Serial Bus. Abbreviation is always OK.",
 			"@type": "glossary-entry"
@@ -2883,66 +2783,28 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "v.",
-			"Description": "Acceptable abbreviation for versus in a legal context: Brown v. Board of Education outlawed the racial segregation of public schools in the U.S.  Do not use outside a legal context: See &ldquo;vs.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "VGA",
 			"Description": "Abbreviation for video graphics array. Abbreviation is always OK.",
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "vice president (n.)",
-			"Description": "Two words, no hyphen. Capitalize before a name: Vice President Joe Biden. Otherwise lowercase: She would have been the first female vice president. In both cases, it may be abbreviated as VP: VP Joe Biden; the first female VP.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "vice-presidential (adj.)",
-			"Description": "Always hyphenated.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "vidcast",
-			"Description": "One word, lowercase. Short for video podcast.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "video camera",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "video game",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "video gamer",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "video-chat (adj., v.)",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "videoconference",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "videophone",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "vlog",
 			"Description": "One word, lowercase. Short for video blog.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "voicemail",
-			"Description": "One word, lowercase. Not voice mail.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "voicemail box",
 			"@type": "glossary-entry"
 		},
 		{
@@ -2956,13 +2818,9 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "vs.",
-			"Description": "Acceptable abbreviation for versus when used outside a legal context: The 1938 rematch of Joe Louis vs. Max Schmeling made boxing history.  Do not use in a legal context: See &ldquo;v.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "wallpaper, wallpapers",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "WAN",
@@ -2975,22 +2833,19 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "Washington, D.C.",
-			"Description": "Note the comma and periods. The abbreviation stands for District of Columbia. When space is tight, Wash. DC is an acceptable abbreviation. Washington may also be used if there is no chance it will be confused for the state of Washington.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "Web (n., adj.)",
 			"Description": "Note capitalization. Examples: Yahoo! Search helps you find information on the Web. Cut and paste the address into your Web browser. Most compounds formed with Web are open, such as Web beacon, Web conference, Web feed, and Web hosting. Exceptions such as webpage and website are included as separate entries in this list. [Updated to include Web beacon.]",
 			"@type": "glossary-entry"
 		},
 		{
 			"Word": "webcam",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "webcast",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "webinar",
@@ -2999,7 +2854,8 @@
 		},
 		{
 			"Word": "webisode",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "weblog",
@@ -3008,24 +2864,18 @@
 		},
 		{
 			"Word": "webmaster",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "webpage",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "website",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "well-wishers (n.)",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "white",
-			"Description": "Lowercase when referring to race.",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "Wi-Fi",
@@ -3034,21 +2884,12 @@
 		},
 		{
 			"Word": "widescreen",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Wii",
-			"Description": "Note capitalization and spelling of this Nintendo trademark. Do not add an s to form the plural.",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "wiki",
 			"Description": "Lowercase. Plural: wikis.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "winter, wintertime",
-			"Description": "Lowercase the season name.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -3057,18 +2898,9 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "word-of-mouth (n., adj.)",
-			"Description": "Note hyphens when used as a noun or adjective.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "workflow",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "world phone",
-			"Description": "Two words, lowercase. A cell phone that works on networks around the world.",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "World Wide Web",
@@ -3077,7 +2909,8 @@
 		},
 		{
 			"Word": "worldwide (adj., adv.)",
-			"@type": "glossary-entry"
+			"@type": "glossary-entry",
+			"Description": "Description"
 		},
 		{
 			"Word": "WWW",
@@ -3087,11 +2920,6 @@
 		{
 			"Word": "WYSIWYG",
 			"Description": "Acronym for what you see is what you get. Abbreviation is always OK.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "X-ray",
-			"Description": "Note capitalization and hyphen.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -3125,23 +2953,8 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "yard",
-			"Description": "An acceptable abbreviation for yard(s) is yd. (note period).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "yd.",
-			"Description": "Acceptable abbreviation for yard(s). Note the period. Include a space between the number and yd. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "YouTube",
 			"Description": "One word. Note capitalization of this Google trademark.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "zero-emission (adj.)",
-			"Description": "Hyphenated when used as an adjective: zero-emission car. Note that there is no s at the end of emission.",
 			"@type": "glossary-entry"
 		},
 		{
