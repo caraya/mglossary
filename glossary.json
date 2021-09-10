@@ -908,26 +908,6 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "gal.",
-			"Description": "Acceptable abbreviation for gallon(s). Note period. Include a space between the number and gal. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "gallon",
-			"Description": "An acceptable abbreviation for gallon(s) is gal. (note period). Note: A gallon is a different measurement in the U.S. and the U.K.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Game Boy",
-			"Description": "Two words. Do not add s to form the plural of this Nintendo trademark.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "GameCube",
-			"Description": "One word. Note capitalization of this Nintendo trademark. Do not add s to form the plural.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "GB",
 			"Description": "Abbreviation for gigabyte. Don&rsquo;t include a space between the number and GB.",
 			"@type": "glossary-entry"
@@ -940,16 +920,6 @@
 		{
 			"Word": "GBps",
 			"Description": "Abbreviation for gigabytes per second. Note capitalization—especially uppercase B, which distinguishes this from Gbps, a different measurement. Don&rsquo;t include a space between the number and the abbreviation.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Generation X, Generation Xer, Gen Xer",
-			"Description": "All are acceptable.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Generation Y, Gen Y",
-			"Description": "Both are acceptable.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -983,48 +953,13 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "GOP",
-			"Description": "Abbreviation for Grand Old Party, referring to the Republican Party in the United States.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "governor",
-			"Description": "Use Gov. or Govs. before a name: Gov. Sarah Palin; Govs. Palin and Schwarzenegger. Otherwise lowercase and don&rsquo;t abbreviate: The governor declared a state of emergency.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "govt.",
-			"Description": "Acceptable abbreviation for government. Use only when space is tight. Note period.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "GPS",
 			"Description": "Abbreviation for global positioning system. Abbreviation is always OK.",
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "gram",
-			"Description": "An acceptable abbreviation for gram(s) is g (no period).",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "gray, grey",
 			"Description": "The preferred U.S. spelling is gray. Grey is chiefly British and is considered a variant of gray in the United States.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "grayware",
-			"Description": "One word. Software that is not quite malware but is still undesirable.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Ground Zero, ground zero",
-			"Description": "Capitalize when referring to the site of the September 11, 2001, attacks in the United States. Lowercase when used generically.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "GSM",
-			"Description": "Abbreviation for Groupe Speciale Mobile or Global System for Mobile Communications, a digital communication standard used by some mobile devices. Abbreviation is always OK.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -1035,21 +970,6 @@
 		{
 			"Word": "GUI",
 			"Description": "Abbreviation for graphical user interface. Abbreviation OK to use after initial explanation. Plural: GUIs.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "handheld (n.), hand-held (adj.)",
-			"Description": "The noun refers to a personal digital assistant, or PDA.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "handphone",
-			"Description": "One word. Term used for cell phone or mobile phone in parts of Asia.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "hang on to",
-			"Description": "Not hang onto. The phrasal verb is hang on, and to is the preposition. Example: He tried to hang on to his sense of pride while unemployed.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -1088,39 +1008,14 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "hip-hop (n., adj.)",
-			"@type": "glossary-entry",
-			"Description": "Description"
-		},
-		{
-			"Word": "Hispanic",
-			"Description": "See &ldquo;Latino, Latina.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "hit",
 			"Description": "Avoid as a substitute for press or click. When referring to a key on the keyboard, use press. Use click (for a button, link, or other interface element) or click on (for a file, photograph, icon, etc.) for the mouse action. See &ldquo;Mouse actions&rdquo; for details.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "hold on to",
-			"Description": "Not hold onto. The phrasal verb is hold on, and to is the preposition. Example: She held on to her smile during the interrogation.",
 			"@type": "glossary-entry"
 		},
 		{
 			"Word": "homepage",
 			"@type": "glossary-entry",
 			"Description": "Description"
-		},
-		{
-			"Word": "Hon.",
-			"Description": "Abbreviation for Honorable. When used before a person&rsquo;s name, precede with the.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Honorable",
-			"Description": "An honorary title. The abbreviation Hon. is always OK. When used before a person&rsquo;s name, Honorable and Hon. are preceded by the. Example: The record shows that the Honorable Donald Brown presided over the case.",
-			"@type": "glossary-entry"
 		},
 		{
 			"Word": "horsepower",
@@ -1138,21 +1033,6 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "hotspot (n.), hot spot (n.)",
-			"Description": "One word when referring to a Wi-Fi access point: Connect to the nearest hotspot to access the Internet. Otherwise, use two words: Paparazzi lurked outside Hollywood&rsquo;s latest hot spot.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "hour",
-			"Description": "An acceptable abbreviation for hour(s) is hr. Note the period.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "House of Representatives",
-			"Description": "Always capitalize the singular form: U.S. House of Representatives, California House of Representatives. May also be shortened: the House, the U.S. House, the California House. Lowercase the plural form: the Virginia and North Carolina houses.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "hover",
 			"Description": "Don&rsquo;t use to describe the action of holding the mouse pointer over an area of the page. Use a simpler, clearer phrase such as pass (or roll or move or hold) your mouse cursor over, or an equivalent phrase.",
 			"@type": "glossary-entry"
@@ -1163,16 +1043,6 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "hp",
-			"Description": "Acceptable abbreviation for horsepower. No period.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "hr.",
-			"Description": "Acceptable abbreviation for hour(s). Note the period. Include a space between the number and hr. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "HTML",
 			"Description": "Abbreviation for Hypertext Markup Language. Abbreviation is always OK.",
 			"@type": "glossary-entry"
@@ -1180,16 +1050,6 @@
 		{
 			"Word": "hyperlink (n., adj., v.)",
 			"Description": "One word, but the term is dated. Use link instead.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "hyperlocal (n., adj.)",
-			"Description": "One word. Refers to something&mdash;news, for example, or an entire website&mdash;that is geared toward a defined local community and (usually) is created by a resident of that community. Typically, hyperlocal is even more limited in scope than local. For instance, hyperlocal news may be limited to a single town or even to a particular neighborhood.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "i.e.",
-			"Description": "Abbreviation meaning that is. Note periods. Don&rsquo;t include a space after the first period. OK to use when space is a consideration; otherwise, use that is, in other words, or equivalent. If used, include a comma after the last period.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -1208,32 +1068,7 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "IMAX",
-			"Description": "As a trademark for the movie format, IMAX should be used as an adjective, not a noun.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "in.",
-			"Description": "Acceptable abbreviation for inch(es). Note the period. Include a space between the number and in. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "inbox",
-			"@type": "glossary-entry",
-			"Description": "Description"
-		},
-		{
-			"Word": "inch",
-			"Description": "An acceptable abbreviation for inch(es) is in. (note period).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "info",
-			"Description": "In general, use information rather than info. In some circumstances, such as if space is tight, info is acceptable.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "inkjet",
 			"@type": "glossary-entry",
 			"Description": "Description"
 		},
@@ -1288,11 +1123,6 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "IR",
-			"Description": "Acceptable abbreviation for infrared.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "ISP",
 			"Description": "Abbreviation for Internet service provider. Plural: ISPs.",
 			"@type": "glossary-entry"
@@ -1313,13 +1143,8 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "JavaScript",
+			"Word": "Javascript",
 			"Description": "One word. Note capitalization of this Sun Microsystems trademark.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "JD",
-			"Description": "Abbreviation for Juris Doctor (doctor of law). No periods. [Updated to apply title case to the full name of the degree.]",
 			"@type": "glossary-entry"
 		},
 		{
@@ -1328,19 +1153,9 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "Jr., Junior",
-			"Description": "Abbreviate as Jr. only in the full name of a person. Do not precede with a comma. Example: Sammy Davis Jr. was born on December 8, 1925.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "junk mail",
 			"@type": "glossary-entry",
 			"Description": "Description"
-		},
-		{
-			"Word": "K",
-			"Description": "Acceptable as an abbreviation for thousand when space is tight—but only if the meaning is clear, since it can also stand for kilobytes, kilobits, and kilograms. Don&rsquo;t include a space between the number and K. Example: Toddler Finds $100K in Trash Bin.",
-			"@type": "glossary-entry"
 		},
 		{
 			"Word": "KB",
