@@ -1368,11 +1368,6 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "kg",
-			"Description": "Acceptable abbreviation for kilogram(s). Include a space between the number and kg. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "kHz",
 			"Description": "Abbreviation for kilohertz. Note capitalization. Don&rsquo;t include a space between the number and kHz.",
 			"@type": "glossary-entry"
@@ -1383,68 +1378,8 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "kilogram",
-			"Description": "An acceptable abbreviation for kilogram(s) is kg (no period).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "kiloliter",
-			"Description": "An acceptable abbreviation for kiloliter(s) is kl (no period).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "kilometers per hour",
-			"Description": "An acceptable abbreviation is km/h (no periods).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "kl",
-			"Description": "Acceptable abbreviation for kiloliter(s). Include a space between the number and kl. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "km",
-			"Description": "Acceptable abbreviation for kilometer(s). Include a space between the number and km. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "km/h",
-			"Description": "Acceptable abbreviation for kilometers per hour. Include a space between the number and km/h.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "l",
-			"Description": "Acceptable abbreviation for liter(s). Include a space between the number and l. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "L.A.",
-			"Description": "Abbreviation for Los Angeles. Note periods (to avoid confusion with the postal abbreviation for Louisiana). Use only when space is tight.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "LAN",
 			"Description": "Acronym for local area network. Acronym OK to use after initial explanation.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Latino, Latina (n., adj.)",
-			"Description": "Generally preferred to Hispanic. Latino refers to men; Latina refers to women. Plural: Latinos, Latinas. When possible, be more specific: Colombian, Mexican American, Puerto Rican.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "lay up (n.), layup (n.)",
-			"Description": "Two words when referring to a golf shot. One word when referring to a basketball shot.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "layperson",
-			"Description": "Use this term instead of layman.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "lb.",
-			"Description": "Acceptable abbreviation for pound(s). Note period. Include a space between the number and lb. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
 			"@type": "glossary-entry"
 		},
 		{
@@ -1453,53 +1388,13 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "learned, learnt",
-			"Description": "The preferred U.S. spelling is learned. Learnt is chiefly British and is considered a variant of learned in the United States.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "LED",
 			"Description": "Acronym for light-emitting diode. Acronym is always OK. Plural: LEDs.",
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "left-hand side",
-			"Description": "Don&rsquo;t use. Use left side instead.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "LGBT",
-			"Description": "Acronym for lesbian, gay, bisexual, transgender. Acronym OK to use after an explanation. [Updated to change transgendered to transgender.]",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Li-ion",
-			"Description": "Acceptable abbreviation for lithium-ion, a type of battery. Note capital L.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "like (v.)",
-			"Description": "Enclose like in quotation marks when referring to the action of indicating approval on a social-networking site such as Facebook. Example: Thousands of people have &ldquo;liked&rdquo; us on Facebook, helping to raise funds for Stand Up to Cancer. Treat the term as you would a user-interface element (a button or link, for example) when the reference is to the UI element itself. We prefer to use boldface to make UI elements stand out in text. Example: Visit us on Facebook and click Like, and you could win a prize.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "lineup (n.), line up (v.)",
-			"Description": "One word when used as a noun. Two words when used as a verb.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "Linux",
 			"Description": "Note capitalization of this trademark owned by Linus Torvalds. Not LINUX.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "liter",
-			"Description": "An acceptable abbreviation for liter(s) is l (no period).",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "lithium-ion (n., adj.)",
-			"Description": "Lowercase the written-out form of this type of battery.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -1528,38 +1423,8 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "low-fat (adj.)",
-			"Description": "Note hyphen.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "m",
-			"Description": "Acceptable abbreviation for meter(s). Include a space between the number and m. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "M",
-			"Description": "Don&rsquo;t use as an abbreviation for million or thousand.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "MA",
-			"Description": "Abbreviation for Master of Arts. No periods. [Updated to apply title case to the full name of the degree.]",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "Mac",
 			"Description": "Abbreviation for Macintosh, an Apple trademark. Abbreviation is always OK.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "machine",
-			"Description": "Don&rsquo;t use when referring to a computer. Use computer. Example: After 10 seconds, restart the computer.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "mail carrier",
-			"Description": "Use this term instead of mailman. See &ldquo;Write gender-neutral copy.&rdquo;",
 			"@type": "glossary-entry"
 		},
 		{
@@ -1573,26 +1438,6 @@
 			"Description": "Description"
 		},
 		{
-			"Word": "man (n., v.)",
-			"Description": "Don&rsquo;t use to refer to both men and women. Use person or people instead for the noun; to staff or to operate for the verb. See &ldquo;Write gender-neutral copy.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "mankind",
-			"Description": "Don&rsquo;t use to refer to all people. Use humanity or humankind instead. See &ldquo;Write gender-neutral copy.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "manmade",
-			"Description": "Don&rsquo;t use. Use handmade, machine-made, synthetic, artificial, or other words instead. See &ldquo;Write gender-neutral copy.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "manpower",
-			"Description": "Don&rsquo;t use. Use staff, workforce, or other words instead. See &ldquo;Write gender-neutral copy.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "mashup (n., adj.), mash up (v.)",
 			"Description": "One word when used as a noun or an adjective. Two words when used as a verb. Examples: Anyone can create a mashup with the right technology. Use our technology to mash up RSS feeds into a single stream.",
 			"@type": "glossary-entry"
@@ -1600,11 +1445,6 @@
 		{
 			"Word": "MB",
 			"Description": "Abbreviation for megabyte. All capitals. Don&rsquo;t include a space between the number and MB.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "MBA",
-			"Description": "Abbreviation for Master of Business Administration. No periods. [Updated to apply title case to the full name of the degree.]",
 			"@type": "glossary-entry"
 		},
 		{
@@ -1618,23 +1458,8 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "Mbyte",
-			"Description": "Don&rsquo;t use as an abbreviation for megabyte.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "MC",
-			"Description": "Not emcee.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "mcg",
-			"Description": "Acceptable abbreviation for microgram(s). Include a space between the number and mcg. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "media",
-			"Description": "Treat media as a mass noun with a singular verb, unless you can distinguish the individual &ldquo;mediums&rdquo; (modes of communication) making up a use of media. Examples: The media is ignoring the story completely (singular verb when &ldquo;the media&rdquo; is a mass noun like &ldquo;the press&rdquo;). Various media are covering the story differently: Print newspapers seem to be burying it, but TV stations and online sites are highlighting it (plural verb when &ldquo;media&rdquo; comprises distinguishable &ldquo;mediums&rdquo;).",
+			"Description": "Treat media as a mass noun with a singular verb, unless you can distinguish the individual \"mediums\" (modes of communication) making up a use of media. Examples: The media is ignoring the story completely (singular verb when &ldquo;the media&rdquo; is a mass noun like &ldquo;the press&rdquo;). Various media are covering the story differently: Print newspapers seem to be burying it, but TV stations and online sites are highlighting it (plural verb when &ldquo;media&rdquo; comprises distinguishable &ldquo;mediums&rdquo;).",
 			"@type": "glossary-entry"
 		},
 		{
@@ -1648,11 +1473,6 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "message boards",
-			"Description": "Lowercase when used generically.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "metadata (n.)",
 			"@type": "glossary-entry",
 			"Description": "Description"
@@ -1661,11 +1481,6 @@
 			"Word": "metatag (n.)",
 			"@type": "glossary-entry",
 			"Description": "Description"
-		},
-		{
-			"Word": "meter",
-			"Description": "An acceptable abbreviation for meter(s) is m (no period).",
-			"@type": "glossary-entry"
 		},
 		{
 			"Word": "microblog (v.), microblogging (n., adj.)",
