@@ -2318,22 +2318,7 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "right-hand side",
-			"Description": "Don&rsquo;t use. Use right side instead.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "ringtone",
-			"@type": "glossary-entry",
-			"Description": "Description"
-		},
-		{
-			"Word": "rock 'n' roll",
-			"Description": "Note apostrophes. The variant rock-and-roll (hyphenated) is also acceptable, although rock &rsquo;n&rsquo; roll is preferred.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "roundup (n.)",
 			"@type": "glossary-entry",
 			"Description": "Description"
 		},
@@ -2343,32 +2328,12 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "s/he",
-			"Description": "Avoid this usage. See &ldquo;Write gender-neutral copy.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "sales representative",
-			"Description": "Use this term instead of salesman or saleswoman. See &ldquo;Write gender-neutral copy.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "schwag",
-			"Description": "Do not use. See &ldquo;swag&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "screen",
 			"Description": "Use only to refer to the computer screen, not to a page on a website. When referring to a website, use page.",
 			"@type": "glossary-entry"
 		},
 		{
 			"Word": "screen capture",
-			"@type": "glossary-entry",
-			"Description": "Description"
-		},
-		{
-			"Word": "screen name",
 			"@type": "glossary-entry",
 			"Description": "Description"
 		},
@@ -2403,44 +2368,9 @@
 			"Description": "Description"
 		},
 		{
-			"Word": "season",
-			"Description": "Capitalize when referring to a specific TV season using a numeral: Season 3 of &ldquo;Mad Men.&rdquo; Do not capitalize when using an ordinal number: The third season of &ldquo;Mad Men,&rdquo; the 10th season of &ldquo;The Simpsons.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "seasons",
-			"Description": "Lowercase the names of seasons and derivatives (for example, springtime, wintertime). Don&rsquo;t include a comma between a season name and a year. Example: Yahoo! Mail launched in fall 1997.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "sec.",
-			"Description": "Acceptable abbreviation for second(s). Note the period. Include a space between the number and sec. For information about when it&rsquo;s OK to use the abbreviation, see &ldquo;Units of measure.&rdquo;",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "second",
-			"Description": "When referring to time, an acceptable abbreviation for second(s) is sec. Note the period.",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "security key",
 			"@type": "glossary-entry",
 			"Description": "Description"
-		},
-		{
-			"Word": "Senate",
-			"Description": "Always capitalize the singular form: U.S. Senate, state Senate, the Senate. Lowercase the plural form: the Virginia and North Carolina senates.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "senator",
-			"Description": "Use Sen. or Sens. before a name: Sen. Olympia J. Snowe; Sens. Snowe and McCain. Otherwise lowercase and don&rsquo;t abbreviate: The senator from Maine.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "Senior, Sr.",
-			"Description": "Abbreviate as Sr. only in the full name of a person. Do not precede Senior or Sr. with a comma. Example: Frank M. Hines Sr. retired from his post as CEO of Dodd Inc.",
-			"@type": "glossary-entry"
 		},
 		{
 			"Word": "SEO",
