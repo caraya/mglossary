@@ -659,7 +659,7 @@
 		},
 		{
 			"Word": "hit",
-			"Description": "Avoid as a substitute for press or click. When referring to a key on the keyboard, use press. Use click (for a button, link, or other interface element) or click on (for a file, photograph, icon, etc.) for the mouse action. See &ldquo;Mouse actions&rdquo; for details.",
+			"Description": "Avoid as a substitute for press or click. \n\nWhen referring to a key on the keyboard, use press. \n\nUse click (for a button, link, or other interface elements) or click on (for a file, photograph, icon, etc.) for the mouse action. \n\nFor generic actions that can happen on mobile or desktop use tap.",
 			"@type": "glossary-entry"
 		},
 		{
