@@ -603,11 +603,6 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "Default Glossary Entry",
-			"Description": "Description",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "GPS",
 			"Description": "Abbreviation for global positioning system. Abbreviation is always OK.",
 			"@type": "glossary-entry"
