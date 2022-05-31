@@ -3,6 +3,11 @@
 	"Description": "Project Description",
 	"glossary": [
 		{
+			"Word": "WordPress",
+			"Description": "CMS and Blogging software\n\nOne word with both parts capitalized. Not Wordpress or word press",
+			"@type": "glossary-entry"
+		},
+		{
 			"Word": "3D",
 			"Description": "No space. Not 3-D.",
 			"@type": "glossary-entry"
