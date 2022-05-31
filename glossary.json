@@ -599,7 +599,12 @@
 		},
 		{
 			"Word": "Google",
-			"Description": "According to Google guidelines, it is not OK to use this trademark as a verb. Use search, search for, or search on instead.",
+			"Description": "According to Google guidelines, it is not OK to use this trademark as a verb. \n\nIt is preferred to use search, search for, or search on instead. However, people will continue to use google as a verb t replace search.",
+			"@type": "glossary-entry"
+		},
+		{
+			"Word": "Default Glossary Entry",
+			"Description": "Description",
 			"@type": "glossary-entry"
 		},
 		{
