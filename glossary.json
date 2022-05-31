@@ -213,11 +213,6 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "WordPress",
-			"Description": "CMS and Blogging software\n\nOne word with both parts capitalized. Not Wordpress or word press",
-			"@type": "glossary-entry"
-		},
-		{
 			"Word": "Cascading Style Sheets",
 			"Description": "A Web-building technology. OK to abbreviate as CSS after the initial explanation. Use lowercase style sheets to refer to CSS documents. Example: Cascading Style Sheets (CSS) specifications allow a site designer to use style sheets to specify the layout and other visual aspects of a webpage.",
 			"@type": "glossary-entry"
@@ -1640,6 +1635,11 @@
 		{
 			"Word": "wiki",
 			"Description": "Lowercase. Plural: wikis.",
+			"@type": "glossary-entry"
+		},
+		{
+			"Word": "WordPress",
+			"Description": "CMS and Blogging software\n\nOne word with both parts capitalized. Not Wordpress or word press",
 			"@type": "glossary-entry"
 		},
 		{
