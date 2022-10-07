@@ -28,8 +28,18 @@
 			"@type": "glossary-entry"
 		},
 		{
-			"Word": "C (language)",
-			"Description": "Old-school programming language, still in use around the world. Note capitalization.",
+			"Word": "Arpanet",
+			"Description": "Built by ARPA as a research-sharing tool, the Arpanet was the first wide-area network and the precursor to the Internet. In 1969, the first four nodes where established at University of California, Los Angeles; SRI Internation, in Melo Park, California; the University of California, Santa Barbara; and the University of Utah. The Arpanet was eclipsed in the '80s by the National Science Foundation's high-speed NSFNet backbone and the networks connected to it. Adound this time, peopple began to think of this collection of networss as an Internet",
+			"@type": "glossary-entry"
+		},
+		{
+			"Word": "'As we may think'",
+			"Description": "Published in <em>The Atlantic Monthly</em> in 1945, this essay by electrical engineer Vannevar Bush described the first, albeit hypothetical, hypertext information system, called 'Memex",
+			"@type": "glossary-entry"
+		},    
+		{
+			"Word": "Atari",
+			"Description": "An American company that dominated the video game market during the early '80s, but foundered in the era of 32-bit, high-res special-effects games. Today the name Atari is a warning to cocky new gaming companies.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -132,6 +142,11 @@
 			"Description": "Abbreviation for blind carbon copy. Abbreviation is always OK. Example: Put email addresses in the Bcc field if you don&rsquo;t want anyone else to see them. If you send that email, be sure to Bcc me. Other forms: Bcc&rsquo;d, Bcc&rsquo;ing, Bcc&rsquo;s.",
 			"@type": "glossary-entry"
 		},
+    {
+			"Word": "Bell Labs",
+			"Description": "The legendary AT&amp;T Bell Laboratories, in Murray Hill, New Jesey, wwas once the richest and largest private communications lab in the world. Formed in 1925, Bell Labs gave meaning to namesake Alexander Graham Bell's dictum 'Leavee the beaten path and dive into the woods.'",
+			"@type": "glossary-entry"
+		}, 
 		{
 			"Word": "beta",
 			"Description": "Capitalize beta if it is part of an official product name. Otherwise, lowercase it. Examples: Sign up for the new Yahoo! Messenger Beta. Try the beta version of Yahoo! Messenger.",
@@ -192,6 +207,11 @@
 			"Description": "Not browseable.",
 			"@type": "glossary-entry"
 		},
+ 		{
+			"Word": "CERN",
+			"Description": "The Conseil Europén pour La Recherche Nucléaire (European Laboratory for Particle Physics) is the place where the the web was invented in 1989.",
+			"@type": "glossary-entry"
+		},
 		{
 			"Word": "café",
 			"Description": "OK to use accented character in webpage copy and HTML emails, but use cafe (with no accent) in plain-text emails, in copy that may appear in an RSS feed, and in other places where special characters are not always supported (in comment systems and certain content management systems, for example)&mdash;such characters may become garbled. (Alternative style: Use the unaccented version in all cases to simplify decision making for editors; this term without accents is unlikely to be misread in English.)",
@@ -204,7 +224,7 @@
 		},
 		{
 			"Word": "cancellation (n.), canceled, canceling (v.)",
-			"Description": "The preferred U.S. spelling has two l&rsquo;s in noun form and one l in verb forms. The preferred British spelling has two l&rsquo;s in all forms.",
+			"Description": "The preferred U.S. spelling has two l&rsquo;s in noun form and one l in verb forms. The preferred British spelling has two l&rsquo;s in all forms.\n\n",
 			"@type": "glossary-entry"
 		},
 		{
@@ -358,6 +378,11 @@
 			"@type": "glossary-entry"
 		},
 		{
+			"Word": "DARPA",
+			"Description": "Called Arpa when it was founded in 1958, Darpa is the central research-and-development for the US Department of Defense, and creator of the Arpanet.  The original name changed to Defense Advanced Projects Agency in 1972.\n\nThe 'Defense' part was deleted in 1993 to reflect the Clinton administration's intereste in dual-use technologies, but was reinstated in 1996.",
+			"@type": "glossary-entry"
+		},
+		{
 			"Word": "denial-of-service (adj.)",
 			"Description": "A type of hacker attack (denial-of-service attack). Abbreviation DoS OK after initial explanation.",
 			"@type": "glossary-entry"
@@ -404,7 +429,12 @@
 		},
 		{
 			"Word": "DoS",
-			"Description": "Abbreviation for denial of service. See also &ldquo;denial-of-service.&rdquo;",
+			"Description": "Abbreviation for denial of service.",
+			"@type": "glossary-entry"
+		},
+		{
+			"Word": "DDoS",
+			"Description": "Distributed Denial of Service. A type of Denial of Service attack using multiple machines to originate the attack.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -623,6 +653,11 @@
 			"@type": "glossary-entry"
 		},
 		{
+			"Word": "Hacker Ethics",
+			"Description": "As hacker culture developed at MIT in the 50's and 60's, a certain philosophy began to emerge. Steven Levy writes in <em>Hackers</em> 'The precepts of this revolutionary Hacker Ethic were not so much debated and discussed as silenty agreed upon': \n\n\t * Access to all computers - and anything that might teach you something about the way the world works - should be unlimited and total. Aalways yield to the Hands-On operative\n\n\t * All information should be free\n\n\t * Mistrust authority - Promote decentralization\n\n\t * Hackers should be judged by their hacking, not bogus criteria such as degree, age, race, or position\n\n\t * You can create art and beauty on a computer\n\n\t * Computers can change your life for the better",
+			"@type": "glossary-entry"
+		},
+		{
 			"Word": "hard core (n.), hard-core (adj.)",
 			"Description": "Hyphenated when used as an adjective.",
 			"@type": "glossary-entry"
@@ -707,6 +742,16 @@
 			"Description": "All capitals, no periods, no space. Not Id, id. Other acceptable forms: IDs (n. pl.); ID’s, ID’ed, ID’ing (v.). Example: The security guard ID’s all employees as they come in, sometimes scrutinizing their IDs. Avoid the abbreviated verb form where space is not a concern; instead use a verb like identifies or verifies. [Updated to add IDs and ID’s, with examples.]",
 			"@type": "glossary-entry"
 		},
+    {
+      "Word": "IEEE",
+      "Description": "The Institute of Electronics and Electrical Engineering is the hardware and software standards body and the world largest professional organization. It also sponsors technical conferences, symposia and meetings across the world and publishes nearly 25% of the world's papers in electrical and computer engineering",
+      "@type": "glossary-entry"
+    },
+    {
+      "Word": "IETF",
+      "Description": "The Internet Engineering Task Force is a self-organizing volunteer group that set the protocol standards, sets information documents, and resolves various and sundry problems of the Internet. Members, divided into specific technical working groups, communicate through mailing lists and attend several meetings annually",
+      "@type": "glossary-entry"
+    },
 		{
 			"Word": "IM (n., adj., v.)",
 			"Description": "Acronym for instant message. All capitals, no periods, no space. Other acceptable forms: IMs (n. pl.); IM’s, IM’ed, IM’ing (v.). Example: My mother IM’s me constantly, and her IMs are hard to ignore! Avoid the abbreviated verb form where space is not a concern. See also &ldquo;instant message.&rdquo; [Updated to add IMs and IM’s, with examples.]",
@@ -742,6 +787,11 @@
 			"Description": "Note capitalization. OK to abbreviate as ISP.",
 			"@type": "glossary-entry"
 		},
+    {
+      "Word": "Internet Society",
+      "Description": "The Internet Society is an American nonprofit advocacy organization founded in 1992 with local chapters around the world. Its mission is 'to promote the open development, evolution, and use of the Internet for the benefit of all people throughout the world.'",
+      "@type": "glossary-entry"
+    },
 		{
 			"Word": "intranet",
 			"Description": "Note lowercase. A private internal network typically accessible only to a select group of individuals.",
@@ -758,18 +808,13 @@
 			"@type": "glossary-entry"
 		},
 		{
+			"Word": "iPad",
+			"Description": "Note capitalization of this Apple trademark. Do not use this brand name generically to refer to all tablets, and don&rsquo;t add an s to make the term plural.",
+			"@type": "glossary-entry"
+		},
+		{
 			"Word": "iPod",
-			"Description": "Note capitalization of this Apple trademark. See &ldquo;Capitalization&rdquo; for information on how to treat names such as this in a title or at the beginning of a sentence.  Do not use this brand name generically to refer to all MP3 players, and don&rsquo;t add an s to make the term plural.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "iPod nano",
-			"Description": "Note capitalization.  Do not use nano by itself when referring to the Apple product.",
-			"@type": "glossary-entry"
-		},
-		{
-			"Word": "iPod touch",
-			"Description": "Note capitalization.  Do not use touch by itself when referring to the Apple product.",
+			"Description": "Note capitalization of this Apple trademark. Do not use this brand name generically to refer to all MP3 players, and don&rsquo;t add an s to make the term plural.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -784,7 +829,7 @@
 		},
 		{
 			"Word": "iTunes",
-			"Description": "Note capitalization of this Apple trademark. See &ldquo;Capitalization&rdquo; for information on how to treat names such as this in a title or at the beginning of a sentence.",
+			"Description": "Note capitalization of this Apple trademark.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -889,7 +934,7 @@
 		},
 		{
 			"Word": "Mac",
-			"Description": "Abbreviation for Macintosh, an Apple trademark. Abbreviation is always OK.",
+			"Description": "Abbreviation for Macintosh, an Apple trademark. Abbreviation is always OK.\n\nCreated at Apple Computer and first introduced in 1984. The Macintosh popularized GUI concepts (originally developed at PARC and SRI)like windows, menubars and made the desktop and mouse staples in computing.",
 			"@type": "glossary-entry"
 		},
 		{
@@ -972,6 +1017,16 @@
 			"Description": "Acceptable as a noun when it&rsquo;s a shortened form of mobile phone. Mobile phone is interchangeable with cell phone in the U.S.; in the U.K., mobile phone is the more common term. In parts of Asia, handphone is common.",
 			"@type": "glossary-entry"
 		},
+    {
+      "Word": "Moore's Law",
+      "Description": "In 1965, Intel coufounder Gordon Moore stated that the number of transistors we can fit on a chip - and, therefore, the potetial power of our machines - will double every 18 months. His assertion has become an accepted law of the high-tech industry",
+      "@type": "glossary-entry"
+    },
+    {
+      "Word": "Mosaic",
+      "Description": "The first graphical web browser. Created in 1993 at the University of Illinois at Urbana-Champaign by a team led by Marc Andressen and Eric Bina.\n\nThe final version, 3.0, was released in 1997.",
+      "@type": "glossary-entry"
+    },
 		{
 			"Word": "mouseover (n.), mouse over (v.)",
 			"Description": "Don&rsquo;t use to describe the action of holding the mouse pointer over an area of the page. Use roll, move, or pass your mouse cursor over, or an equivalent phrase.",
