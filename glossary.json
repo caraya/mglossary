@@ -68,8 +68,13 @@
 			"Description": "Description"
 		},
 		{
+			"Word": "Agent",
+			"Description": "Short for autonomous agent. Think of an agent as an entity that learns you preferences and then independently does things for you within a physical or virtual environment",
+			"@type": "glossary-entry"
+		},
+		{
 			"Word": "aka",
-			"Description": "Abbreviation for also known as. Lowercase, no periods, no spaces.",
+			"Description": "Abbreviation for also known as. Lowercase, no periods, no spaces",
 			"@type": "glossary-entry"
 		},
 		{
@@ -1735,7 +1740,12 @@
 		},
 		{
 			"Word": "Xanadu",
-			"Description": "Ted Nelson's hypermedia dream. As Nelson described in his 1982 book, <em>Literary Machines 90.1</em>, Project Xanadu",
+			"Description": "Ted Nelson's hypermedia dream. As Nelson described in his 1982 book, Literary Machines 90.1, Project Xanadu is \"an initiative toward and instantaneous electronic literature; the most audacious and specific plan for knowledge, freedom, and a better world yet to come out of computerdom; the original (perhaps the ultimate) hypertext system.\" Project Xanadu might also be described as the longest-running vaporware project in the history of computing.",
+			"@type": "glossary-entry"
+		},
+		{
+			"Word": "Xerox PARC",
+			"Description": "Founded in Palo Alto, California, in 1970, Xerox Palo Alto Research Center has helped develop a lot of the computing technologies that we currently use. Some of these technologies include GUI, object-oriented programming languages, Ethernet LAN, and laser printers.",
 			"@type": "glossary-entry"
 		},
 		{
