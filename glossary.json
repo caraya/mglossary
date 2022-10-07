@@ -1518,6 +1518,12 @@
 			"Description": "Description"
 		},
 		{
+			"Word": "Turing Test",
+			"Description": "In 1950, the British mathematician and computer scientist Alan Turing proposed that if a computer could successfully impersonate a human during a free-form exchange of text messages then for all practical purposes the computer should be considered intelligent. This soon became known as the Turing Test; it sparked endless academic debate and inspired an annual competition of the same name",
+			"Image": "https://cdn.jsdelivr.net/gh/caraya/mglossary@43db5c7d53247ba70d909e8d7d0904f025eae811/images/47fc8290-5874-4dec-ae67-5c5977b681d1",
+			"@type": "glossary-entry"
+		},
+		{
 			"Word": "tweet (n., v.)",
 			"Description": "Lowercase when referring to a message sent via Twitter or to the action of sending such a message. Past tense: tweeted.",
 			"@type": "glossary-entry"
@@ -1634,7 +1640,7 @@
 		},
 		{
 			"Word": "Web (n., adj.)",
-			"Description": "Note capitalization. Examples: Yahoo! Search helps you find information on the Web. Cut and paste the address into your Web browser. Most compounds formed with Web are open, such as Web beacon, Web conference, Web feed, and Web hosting. Exceptions such as webpage and website are included as separate entries in this list. [Updated to include Web beacon.]",
+			"Description": "First conceived in 1989 by Tim Berners-Lee, a researcher at CERN\n\nNote capitalization. Examples: Yahoo! Search helps you find information on the Web. Cut and paste the address into your Web browser. Most compounds formed with Web are open, such as Web beacon, Web conference, Web feed, and Web hosting. Exceptions such as webpage and website are included as separate entries in this list. [Updated to include Web beacon.]",
 			"@type": "glossary-entry"
 		},
 		{
