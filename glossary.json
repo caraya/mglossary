@@ -98,6 +98,11 @@
 			"@type": "glossary-entry"
 		},
 		{
+			"Word": "Artificial Intelligence",
+			"Description": "Alan Turing first conceived of computer intelligence in 1950; John McCarthy christened it \"artificial intelligence\" in 1955.\n\nCurrent breakthroughs are coming from the fields of reinforcement learning and neural networks. See the work of [Deepmind](https://www.deepmind.com/) in particular [Alpha Zero](https://www.deepmind.com/blog/alphazero-shedding-new-light-on-chess-shogi-and-go), [Alpha Star](https://www.deepmind.com/blog/alphastar-mastering-the-real-time-strategy-game-starcraft-ii) and [AlphaFold](https://www.deepmind.com/research/highlighted-research/alphafold)",
+			"@type": "glossary-entry"
+		},
+		{
 			"Word": "ASCII",
 			"Description": "Acronym for American Standard Code for Information Interchange. Acronym is always OK.",
 			"@type": "glossary-entry"
