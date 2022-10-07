@@ -36,7 +36,7 @@
 			"Word": "'As we may think'",
 			"Description": "Published in <em>The Atlantic Monthly</em> in 1945, this essay by electrical engineer Vannevar Bush described the first, albeit hypothetical, hypertext information system, called 'Memex",
 			"@type": "glossary-entry"
-		},    
+		},
 		{
 			"Word": "Atari",
 			"Description": "An American company that dominated the video game market during the early '80s, but foundered in the era of 32-bit, high-res special-effects games. Today the name Atari is a warning to cocky new gaming companies.",
@@ -142,11 +142,11 @@
 			"Description": "Abbreviation for blind carbon copy. Abbreviation is always OK. Example: Put email addresses in the Bcc field if you don&rsquo;t want anyone else to see them. If you send that email, be sure to Bcc me. Other forms: Bcc&rsquo;d, Bcc&rsquo;ing, Bcc&rsquo;s.",
 			"@type": "glossary-entry"
 		},
-    {
+		{
 			"Word": "Bell Labs",
-			"Description": "The legendary AT&amp;T Bell Laboratories, in Murray Hill, New Jesey, wwas once the richest and largest private communications lab in the world. Formed in 1925, Bell Labs gave meaning to namesake Alexander Graham Bell's dictum 'Leavee the beaten path and dive into the woods.'",
+			"Description": "The legendary AT&T Bell Laboratories, in Murray Hill, New Jersey, was once the richest and largest private communications lab in the world. Formed in 1925, Bell Labs gave meaning to namesake Alexander Graham Bell's dictum 'Leave the beaten path and dive into the woods.'",
 			"@type": "glossary-entry"
-		}, 
+		},
 		{
 			"Word": "beta",
 			"Description": "Capitalize beta if it is part of an official product name. Otherwise, lowercase it. Examples: Sign up for the new Yahoo! Messenger Beta. Try the beta version of Yahoo! Messenger.",
@@ -207,7 +207,7 @@
 			"Description": "Not browseable.",
 			"@type": "glossary-entry"
 		},
- 		{
+		{
 			"Word": "CERN",
 			"Description": "The Conseil Europén pour La Recherche Nucléaire (European Laboratory for Particle Physics) is the place where the the web was invented in 1989.",
 			"@type": "glossary-entry"
@@ -742,16 +742,16 @@
 			"Description": "All capitals, no periods, no space. Not Id, id. Other acceptable forms: IDs (n. pl.); ID’s, ID’ed, ID’ing (v.). Example: The security guard ID’s all employees as they come in, sometimes scrutinizing their IDs. Avoid the abbreviated verb form where space is not a concern; instead use a verb like identifies or verifies. [Updated to add IDs and ID’s, with examples.]",
 			"@type": "glossary-entry"
 		},
-    {
-      "Word": "IEEE",
-      "Description": "The Institute of Electronics and Electrical Engineering is the hardware and software standards body and the world largest professional organization. It also sponsors technical conferences, symposia and meetings across the world and publishes nearly 25% of the world's papers in electrical and computer engineering",
-      "@type": "glossary-entry"
-    },
-    {
-      "Word": "IETF",
-      "Description": "The Internet Engineering Task Force is a self-organizing volunteer group that set the protocol standards, sets information documents, and resolves various and sundry problems of the Internet. Members, divided into specific technical working groups, communicate through mailing lists and attend several meetings annually",
-      "@type": "glossary-entry"
-    },
+		{
+			"Word": "IEEE",
+			"Description": "The Institute of Electronics and Electrical Engineering is the hardware and software standards body and the world largest professional organization. It also sponsors technical conferences, symposia and meetings across the world and publishes nearly 25% of the world's papers in electrical and computer engineering",
+			"@type": "glossary-entry"
+		},
+		{
+			"Word": "IETF",
+			"Description": "The Internet Engineering Task Force is a self-organizing volunteer group that set the protocol standards, sets information documents, and resolves various and sundry problems of the Internet. Members, divided into specific technical working groups, communicate through mailing lists and attend several meetings annually",
+			"@type": "glossary-entry"
+		},
 		{
 			"Word": "IM (n., adj., v.)",
 			"Description": "Acronym for instant message. All capitals, no periods, no space. Other acceptable forms: IMs (n. pl.); IM’s, IM’ed, IM’ing (v.). Example: My mother IM’s me constantly, and her IMs are hard to ignore! Avoid the abbreviated verb form where space is not a concern. See also &ldquo;instant message.&rdquo; [Updated to add IMs and IM’s, with examples.]",
@@ -787,11 +787,11 @@
 			"Description": "Note capitalization. OK to abbreviate as ISP.",
 			"@type": "glossary-entry"
 		},
-    {
-      "Word": "Internet Society",
-      "Description": "The Internet Society is an American nonprofit advocacy organization founded in 1992 with local chapters around the world. Its mission is 'to promote the open development, evolution, and use of the Internet for the benefit of all people throughout the world.'",
-      "@type": "glossary-entry"
-    },
+		{
+			"Word": "Internet Society",
+			"Description": "The Internet Society is an American nonprofit advocacy organization founded in 1992 with local chapters around the world. Its mission is 'to promote the open development, evolution, and use of the Internet for the benefit of all people throughout the world.'",
+			"@type": "glossary-entry"
+		},
 		{
 			"Word": "intranet",
 			"Description": "Note lowercase. A private internal network typically accessible only to a select group of individuals.",
@@ -1017,16 +1017,16 @@
 			"Description": "Acceptable as a noun when it&rsquo;s a shortened form of mobile phone. Mobile phone is interchangeable with cell phone in the U.S.; in the U.K., mobile phone is the more common term. In parts of Asia, handphone is common.",
 			"@type": "glossary-entry"
 		},
-    {
-      "Word": "Moore's Law",
-      "Description": "In 1965, Intel coufounder Gordon Moore stated that the number of transistors we can fit on a chip - and, therefore, the potetial power of our machines - will double every 18 months. His assertion has become an accepted law of the high-tech industry",
-      "@type": "glossary-entry"
-    },
-    {
-      "Word": "Mosaic",
-      "Description": "The first graphical web browser. Created in 1993 at the University of Illinois at Urbana-Champaign by a team led by Marc Andressen and Eric Bina.\n\nThe final version, 3.0, was released in 1997.",
-      "@type": "glossary-entry"
-    },
+		{
+			"Word": "Moore's Law",
+			"Description": "In 1965, Intel coufounder Gordon Moore stated that the number of transistors we can fit on a chip - and, therefore, the potetial power of our machines - will double every 18 months. His assertion has become an accepted law of the high-tech industry",
+			"@type": "glossary-entry"
+		},
+		{
+			"Word": "Mosaic",
+			"Description": "The first graphical web browser. Created in 1993 at the University of Illinois at Urbana-Champaign by a team led by Marc Andressen and Eric Bina.\n\nThe final version, 3.0, was released in 1997.",
+			"@type": "glossary-entry"
+		},
 		{
 			"Word": "mouseover (n.), mouse over (v.)",
 			"Description": "Don&rsquo;t use to describe the action of holding the mouse pointer over an area of the page. Use roll, move, or pass your mouse cursor over, or an equivalent phrase.",
