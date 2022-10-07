@@ -1734,6 +1734,11 @@
 			"@type": "glossary-entry"
 		},
 		{
+			"Word": "Xanadu",
+			"Description": "Ted Nelson's hypermedia dream. As Nelson described in his 1982 book, <em>Literary Machines 90.1</em>, Project Xanadu",
+			"@type": "glossary-entry"
+		},
+		{
 			"Word": "Xbox",
 			"Description": "One word. Note capitalization of this Microsoft trademark. Do not add es to form the plural.",
 			"@type": "glossary-entry"
